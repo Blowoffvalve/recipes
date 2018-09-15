@@ -1,0 +1,13 @@
+Ingredients:
+	- Ramen noodles
+	- Some protein.
+	
+Directions:
+	- Boil water
+	- Prepare protein to only require mild reheating to be ready
+	- Place noodles inside the water and boil for 2 minutes.
+	- Drain excess water from the pot.
+	- Add protein to pot
+	- Add spices within noodle satchets to the pot.
+	- Cook noodles till they're soft.
+	- Brunch/Dinner is served
